@@ -45,7 +45,4 @@ This project is open-source. Feel free to use and modify it as needed.
 
 This project was created as a simple example and learning exercise in C programming.
 
-Enjoy your weather station project!
-```
-
-Remember to replace "yourusername" with your actual GitHub username if you plan to upload the project to your GitHub repository. This README provides an overview of the project, how to run it, and the license information. You can customize it further if needed.
+Enjoy your weather station project!.
